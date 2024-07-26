@@ -5,5 +5,7 @@ public class Pink4 {
 		System.out.println("we are pinky");
 		System.out.println("we are pinky");
 		System.out.println("we are pinky");
+		System.out.println("we are pinky");
+		
 	}
 }
