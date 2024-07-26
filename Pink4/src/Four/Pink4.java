@@ -5,5 +5,6 @@ public class Pink4 {
 		System.out.println("we are pinky");
 		System.out.println("we are pinky");
 		System.out.println("we are pinky");
+		System.out.println("박영빈 업로드 테스트");
 	}
 }
