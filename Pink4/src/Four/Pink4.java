@@ -6,5 +6,6 @@ public class Pink4 {
 		System.out.println("qweasd");
 		
 		System.out.println("커밋 테스트");
+		System.out.println("FETCH 후 PULL");
 	}
 }
