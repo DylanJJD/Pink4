@@ -8,5 +8,7 @@ public class TestClass {
 		System.out.println("hi");
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
 	}
 }
